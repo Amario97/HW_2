@@ -1,0 +1,58 @@
+ body {
+
+    box-sizing: border-box;
+
+    padding: 0;
+
+    margin: 0;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    color : black;
+ }
+
+
+
+
+
+
+body {
+
+    padding: 2rem;
+
+}
+
+button {
+
+    padding: 0.2rem;
+
+    font-size: medium;
+
+}
+
+
+
+#sec-1 {
+
+    width: 70%;
+
+    height: 40%;
+
+    
+        background: linear-gradient(to right, rgb(175, 70, 9),rgb(250, 226, 91));
+      
+
+}
+
+#sec-2 {
+
+    width: 70%;
+
+    height: 40%;
+
+    display: none;
+
+    background: linear-gradient(to right,rgb(250, 226, 91),  rgb(175, 70, 9));
+
+}
+
